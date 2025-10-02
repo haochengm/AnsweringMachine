@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.6f1
-CRC: 3550427395
+CRC: 537031543
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: pnguploadtesting
+      Name: soundtesting1
       Dependencies: {}

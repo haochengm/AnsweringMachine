@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2219897495870574350}
-  - component: {fileID: 8555635349118968389}
   m_Layer: 0
   m_Name: pnguploadtesting
   m_TagString: Untagged
@@ -33,83 +32,6 @@ Transform:
   - {fileID: 1408790419692511122}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8555635349118968389
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2063968485969126969}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68dd29da16b67420caa98179df829f11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: XREF.Core::XREF.Experience
-  type: 0
-  overrideMuteSwitch: 1
-  increaseScreenBrightness: 1
-  screenOrientation: 1
-  enableBackgroundAudio: 0
-  experienceResumeMode: 0
-  enableDefaultDirectionalLight: 1
-  facingDirection: 1
-  placementDistance: 3
-  repositionType: 0
-  verticalPositioning: 0
-  repositionThreshold: 0.1
-  smoothTime: 5
-  useGeofencing: 0
-  geofencingRadius: 0
-  geofencingStart: 0
-  cameraFacingDirection: 1
-  usePerformanceManager: 0
-  targetFPSAndroid: 30
-  targetFPSiOS: 60
-  usePointCloudManager: 0
-  pointCloudPrefab: {fileID: 0}
-  usePlaneManager: 0
-  planePrefab: {fileID: 0}
-  useFloorPlane: 0
-  floorPrefab: {fileID: 0}
-  planeDetectionMode: 1
-  useFaceTracking: 0
-  facePrefab: {fileID: 0}
-  maximumFaceCount: 1
-  occlusionSettings:
-  - useOcclusion: 0
-    environmentDepthMode: 1
-    temporalSmoothingEnabled: 1
-    humanSegmentationStencilMode: 2
-    humanSegmentationDepthMode: 0
-    occlusionPreferenceMode: 1
-  - useOcclusion: 0
-    environmentDepthMode: 1
-    temporalSmoothingEnabled: 1
-    humanSegmentationStencilMode: 2
-    humanSegmentationDepthMode: 0
-    occlusionPreferenceMode: 1
-  - useOcclusion: 0
-    environmentDepthMode: 1
-    temporalSmoothingEnabled: 1
-    humanSegmentationStencilMode: 2
-    humanSegmentationDepthMode: 0
-    occlusionPreferenceMode: 1
-  reflectionSettings:
-  - useReflections: 0
-    automaticPlacement: 1
-    environmentTextureFilter: 2
-  - useReflections: 0
-    automaticPlacement: 1
-    environmentTextureFilter: 2
-  - useReflections: 0
-    automaticPlacement: 1
-    environmentTextureFilter: 2
-  useStreetscapeGeometry: 0
-  streetscapeGeometryMaterial: {fileID: 0}
-  useARCameraBackgroundTexture: 0
-  arCameraBackgroundMode: 0
-  useLightEstimation: 0
-  isInitialized: 0
 --- !u!1 &6912985290342003442
 GameObject:
   m_ObjectHideFlags: 0
