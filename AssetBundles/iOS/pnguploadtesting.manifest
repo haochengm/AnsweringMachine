@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.6f1
+CRC: 1981880069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca0083faea5564cce6754e14e5e64883
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14f895d3ab48c877622c6e17ad83af44
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e09b9edacb8fa9622ea860c4fa7b33f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68dd29da16b67420caa98179df829f11, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: XREF.Core
+  ClassName: XREF.Experience/OcclusionSettings
+- AssemblyName: XREF.Core
+  ClassName: XREF.Experience/ReflectionSettings
+Assets:
+- Assets/Visuals/Answering_Machine_Sketches.png
+- Assets/Visuals/pngtesting.mat
+- Assets/Temp/pnguploadtesting/XREFBundleMeta.txt
+- Assets/Visuals/pnguploadtesting.prefab
+Dependencies: []
