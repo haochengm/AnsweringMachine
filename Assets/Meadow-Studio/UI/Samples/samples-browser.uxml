@@ -1,0 +1,12 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Meadow-Studio/UI/USS/main.uss?fileID=7433441132597879392&amp;guid=6636e92f09f7d433fbcc67b6b88f8944&amp;type=3#main" />
+    <engine:VisualElement name="main-container" style="flex-grow: 1; margin-top: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0;">
+        <engine:VisualElement name="top-bar" style="flex-grow: 0; height: 50px; background-color: rgba(0, 0, 0, 0); flex-direction: row; padding-top: 0; padding-right: 10px; padding-left: 0; padding-bottom: 10px; align-items: center; border-bottom-width: 1px; border-left-color: rgb(34, 34, 34); border-right-color: rgb(34, 34, 34); border-top-color: rgb(34, 34, 34); border-bottom-color: rgb(34, 34, 34); border-top-width: 0; border-right-width: 0; border-left-width: 0;">
+            <engine:Label text="Samples" name="title-experiences" style="-unity-font-style: bold; font-size: 18px; margin-top: 0; margin-right: 20px; margin-bottom: 0; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-shrink: 0; height: 30px; align-items: auto; -unity-text-align: middle-left;" />
+            <engine:Button name="refresh-button" tooltip="Refresh experiences" style="border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; height: 25px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px; width: 25px; background-image: none; -unity-background-scale-mode: scale-and-crop;">
+                <engine:VisualElement name="refresh-icon" style="flex-grow: 1; background-image: resource(&apos;refresh-icon&apos;); -unity-background-image-tint-color: rgb(196, 196, 196);" />
+            </engine:Button>
+        </engine:VisualElement>
+        <engine:VisualElement name="content-container" style="flex-grow: 0; margin-top: 0; padding-top: 0; margin-left: 0; flex-direction: row; align-items: flex-start; flex-wrap: wrap; height: 100%; width: 100%;" />
+    </engine:VisualElement>
+</engine:UXML>

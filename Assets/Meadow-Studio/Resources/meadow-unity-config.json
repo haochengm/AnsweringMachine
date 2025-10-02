@@ -1,0 +1,383 @@
+{
+  "metadata": {
+      "configurationVersion": "1.03",
+      "requiredMeadowStudioVersion": "0.2.0"
+  },
+  "core": {
+    "packages": {
+      "dependencies": {
+        "com.untoldgarden.xref": "0.2.72",
+        "com.untoldgarden.meadow": "0.0.2"
+      },
+      "scopedRegistries": [
+        {
+          "name": "Untold Garden",
+          "url": "http://35.189.115.164:4873",
+          "scopes": [
+            "com.untoldgarden"
+          ]
+        }
+      ],
+      "scriptingDefines": []
+    },
+    "visualScripting": {
+      "assemblyOptions": [
+        "Meadow",
+        "XREF",
+        "XREF.Core"
+      ],
+      "typeOptions": []
+    },
+    "tags": [
+      "MapMarker"
+    ],
+    "packageDefineHandlers": {
+      "UNITY_VISUAL_SCRIPTING": {
+        "anyRequirement" : false,
+        "requirements" : [
+          "com.unity.visualscripting"
+        ]
+      }
+    }
+  },
+  "optionalPackages": {
+    "xref-experience-builder": {
+      "packageMetadata": {
+        "name": "Experience Builder",
+        "description": "A toolkit for creating complex experiences on Meadow.\n\nContains a range of visual scripting nodes and scripts to speed up and simplify the process of creating immersive experiences.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/xref-client.appspot.com/o/plugins%2Fmeadow-studio%2Foptional-packages%2Fcover-images%2Fxref-experience-builder.png?alt=media",
+        "moreInfoUrl": "",
+        "isPro": false,
+        "comingSoon": false
+      },
+      "packages": {
+        "dependencies": {
+          "com.untoldgarden.xref-experience-builder": "0.2.74"
+        },
+        "scopedRegistries": [],
+        "scriptingDefines": []
+      },
+      "visualScripting": {
+        "assemblyOptions": [
+          "mscorlib",
+          "Assembly-CSharp-firstpass",
+          "Assembly-CSharp",
+          "UnityEngine",
+          "UnityEngine.CoreModule",
+          "UnityEngine.InputModule",
+          "UnityEngine.ClusterInputModule",
+          "UnityEngine.InputLegacyModule",
+          "UnityEngine.PhysicsModule",
+          "UnityEngine.Physics2DModule",
+          "UnityEngine.TerrainPhysicsModule",
+          "UnityEngine.VehiclesModule",
+          "UnityEngine.AudioModule",
+          "UnityEngine.AnimationModule",
+          "UnityEngine.VideoModule",
+          "UnityEngine.DirectorModule",
+          "UnityEngine.Timeline",
+          "UnityEngine.ParticleSystemModule",
+          "UnityEngine.ParticlesLegacyModule",
+          "UnityEngine.WindModule",
+          "UnityEngine.ClothModule",
+          "UnityEngine.TilemapModule",
+          "UnityEngine.SpriteMaskModule",
+          "UnityEngine.TerrainModule",
+          "UnityEngine.ImageConversionModule",
+          "UnityEngine.TextRenderingModule",
+          "UnityEngine.ClusterRendererModule",
+          "UnityEngine.ScreenCaptureModule",
+          "UnityEngine.AIModule",
+          "UnityEngine.UI",
+          "UnityEngine.UIModule",
+          "UnityEngine.IMGUIModule",
+          "UnityEngine.UIElementsModule",
+          "UnityEngine.StyleSheetsModule",
+          "UnityEngine.VR",
+          "UnityEngine.VRModule",
+          "UnityEngine.ARModule",
+          "UnityEngine.HoloLens",
+          "UnityEngine.SpatialTracking",
+          "UnityEngine.GoogleAudioSpatializer",
+          "UnityEngine.Networking",
+          "UnityEngine.Analytics",
+          "UnityEngine.Advertisements",
+          "UnityEngine.Purchasing",
+          "UnityEngine.UnityConnectModule",
+          "UnityEngine.UnityAnalyticsModule",
+          "UnityEngine.GameCenterModule",
+          "UnityEngine.AccessibilityModule",
+          "UnityEngine.AndroidJNIModule",
+          "UnityEngine.AssetBundleModule",
+          "UnityEngine.FileSystemHttpModule",
+          "UnityEngine.JSONSerializeModule",
+          "UnityEngine.UmbraModule",
+          "Unity.Timeline",
+          "Unity.Timeline.Editor",
+          "Cinemachine",
+          "com.unity.cinemachine.Editor",
+          "Unity.InputSystem",
+          "Unity.TextMeshPro",
+          "Unity.VisualScripting.Core",
+          "Unity.VisualScripting.State",
+          "Unity.VisualScripting.Flow",
+          "Unity.VisualEffectGraph.Editor",
+          "Unity.VisualEffectGraph.Runtime",
+          "UnityEngine.VFXModule",
+          "XREF.ExperienceBuilder",
+          "Unity.ShaderGraph.Editor",
+          "Unity.ShaderGraph.Utilities",
+          "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary",
+          "Unity.XR.ARFoundation",
+          "UntoldGarden",
+          "Unity.RenderPipelines.Universal.Runtime",
+          "Unity.RenderPipelines.Universal.Editor",
+          "Unity.RenderPipelines.Universal.Shaders",
+          "Unity.RenderPipelines.Core.Editor",
+          "Unity.RenderPipelines.Core.Runtime",
+          "Unity.XR.ARSubsystems",
+          "XREF",
+          "Unity.Splines",
+          "XREF.Subsystems.Mobile",
+          "XREF.ExperienceBuilder",
+          "Unity.Splines",
+          "XREF.Core",
+          "XREF.ExperienceBuilder.Networking",
+          "XREF.ExperienceBuilder"
+        ],
+        "typeOptions": [
+          "System.Object",
+          "System.Boolean",
+          "System.Int32",
+          "System.Single",
+          "System.String",
+          "UnityEngine.Vector2",
+          "UnityEngine.Vector3",
+          "UnityEngine.Vector4",
+          "UnityEngine.Quaternion",
+          "UnityEngine.Matrix4x4",
+          "UnityEngine.Rect",
+          "UnityEngine.Bounds",
+          "UnityEngine.Color",
+          "UnityEngine.AnimationCurve",
+          "UnityEngine.LayerMask",
+          "UnityEngine.Ray",
+          "UnityEngine.Ray2D",
+          "UnityEngine.RaycastHit",
+          "UnityEngine.RaycastHit2D",
+          "UnityEngine.ContactPoint",
+          "UnityEngine.ContactPoint2D",
+          "UnityEngine.ParticleCollisionEvent",
+          "UnityEngine.SceneManagement.Scene",
+          "UnityEngine.Application",
+          "UnityEngine.Resources",
+          "UnityEngine.Mathf",
+          "UnityEngine.Debug",
+          "UnityEngine.Input",
+          "UnityEngine.Touch",
+          "UnityEngine.Screen",
+          "UnityEngine.Cursor",
+          "UnityEngine.Time",
+          "UnityEngine.Random",
+          "UnityEngine.Physics",
+          "UnityEngine.Physics2D",
+          "UnityEngine.SceneManagement.SceneManager",
+          "UnityEngine.GUI",
+          "UnityEngine.GUILayout",
+          "UnityEngine.GUIUtility",
+          "UnityEngine.Audio.AudioMixerGroup",
+          "UnityEngine.AI.NavMesh",
+          "UnityEngine.Gizmos",
+          "UnityEngine.AnimatorStateInfo",
+          "UnityEngine.EventSystems.BaseEventData",
+          "UnityEngine.EventSystems.PointerEventData",
+          "UnityEngine.EventSystems.AxisEventData",
+          "System.Collections.IList",
+          "System.Collections.IDictionary",
+          "Unity.VisualScripting.AotList",
+          "Unity.VisualScripting.AotDictionary",
+          "System.Exception",
+          "UnityEngine.VFX.VisualEffect",
+          "System.Double",
+          "UnityEngine.GraphicsBuffer",
+          "System.Runtime.InteropServices.Marshal",
+          "UnityEngine.XR.ARFoundation.ARSession",
+          "UnityEngine.XR.ARFoundation.ARPlaneManager",
+          "UnityEngine.XR.ARFoundation.ARPlane",
+          "UnityEngine.XR.ARFoundation.AROcclusionManager",
+          "UnityEngine.XR.ARFoundation.ARCameraManager",
+          "UnityEngine.XR.ARFoundation.ARCameraBackground",
+          "UnityEngine.ScreenCapture",
+          "UnityEngine.WebCamDevice",
+          "UnityEngine.Graphics",
+          "UnityEngine.Rendering.Universal.DecalProjector",
+          "UntoldGarden.Meshing.Funnel",
+          "UnityEngine.Keyframe",
+          "UnityEngine.SystemInfo",
+          "System.DateTime",
+          "UIGraphContoller",
+          "BlurController",
+          "UnityEngine.Rendering.Volume",
+          "UnityEngine.Keyframe",
+          "UnityEngine.PlayerPrefs",
+          "UnityEngine.UIElements.UIDocument",
+          "UnityEngine.UIElements.VisualTreeAsset",
+          "UnityEngine.UIElements.UQuery",
+          "UnityEngine.UIElements.UQueryExtensions",
+          "UnityEngine.Animator",
+          "UnityEngine.AnimatorUtility",
+          "UnityEngine.AnimatorClipInfo",
+          "UnityEngine.AnimatorStateInfo",
+          "UnityEngine.AnimatorUpdateMode",
+          "UnityEngine.AnimatorCullingMode",
+          "UnityEngine.AnimatorRecorderMode",
+          "UnityEngine.Animations.AnimatorJobExtensions",
+          "UnityEngine.AnimatorTransitionInfo",
+          "UnityEngine.AnimatorControllerParameterType",
+          "UnityEngine.XR.ARSubsystems.NotTrackingReason",
+          "UnityEngine.XR.ARFoundation.ARSessionState",
+          "XREF.ExperienceBuilder.Mobile.Vibration",
+          "XREF.Networking.GroupUserInfo",
+          "XREF.ExperienceBuilder.AudioManager",
+          "XREF.Util.DeviceBenchmark",
+          "XREF.Util.LocalizationManager",
+          "XREF.ExperienceBuilder.Mobile.Sensors",
+          "XREF.Content",
+          "XREF.ExperienceBuilder.XREFDialogue",
+          "XREF.ExperienceBuilder.Mobile.Vibration",
+          "XREF.XR.XREFSession",
+          "UnityEngine.Splines.SplineExtrude",
+          "UnityEngine.Splines.SplineAnimate",
+          "XREF.XR.Planes",
+          "XREF.Content",
+          "XREF.Exhibition",
+          "XREF.ExperienceBuilder.AudioManager",
+          "XREF.XR.StreetscapeGeometry",
+          "XREF.AR.StreetscapeGeometryController",
+          "UnityEngine.SkinnedMeshRenderer",
+          "XREF.Util.JsonParser",
+          "XREF.ExperienceBuilder.DownloadString",
+          "XREF.ExperienceBuilder.Audio.MicrophoneToAudioSource",
+          "XREF.ExperienceBuilder.Audio.AudioSourceDBValues",
+          "XREF.ExperienceBuilder.Audio.AudioSourcePitchValues",
+          "UnityEngine.Gradient",
+          "UnityEngine.XR.ARFoundation.ARTrackedImage",
+          "UnityEngine.XR.ARSubsystems.XRReferenceImage",
+          "XREF.XR.Mobile.XREFMobileSession",
+          "UnityEngine.Video.VideoPlayer",
+          "XREF.ExperienceBuilder.Splines.SplineExtrudeQuadStrip",
+          "UnityEngine.Splines.SplineContainer",
+          "UnityEngine.Splines.Spline",
+          "UnityEngine.Splines.BezierKnot",
+          "UnityEngine.Splines.TangentMode",
+          "XREF.XR.Interaction.TouchInteractionManager",
+          "XREF.ExperienceBuilder.GradientToTexture",
+          "UnityEngine.VFX.VisualEffectAsset",
+          "UnityEngine.XR.ARFoundation.ARPointCloud",
+          "UnityEngine.GradientColorKey",
+          "UnityEngine.GradientAlphaKey",
+          "UnityEngine.Splines.SplineContainer",
+          "XREF.ExperienceBuilder.SubtitlePlayer",
+          "Unity.VisualScripting.SwitchOnEnum",
+          "UnityEngine.Splines.Spline",
+          "Writer",
+          "System.Tuple",
+          "System.ValueTuple",
+          "XREF.TextureResizeMethod",
+          "XREF.ExperienceType",
+          "XREF.BlendingMode",
+          "XREF.ARCameraBackgroundMode",
+          "XREF.PerformanceMode",
+          "XREF.CaptureType",
+          "XREF.ExperienceBuilder.Networking.RealtimeDataManager",
+          "XREF.ExperienceBuilder.Networking.UserGroupingManager",
+          "XREF.ExperienceBuilder.Networking.UserPresenceManager",
+          "XREF.ExperienceBuilder.Networking.PairingManager",
+          "XREF.ExperienceBuilder.Networking.NetworkedExperience",
+          "XREF.Experience",
+          "UnityEngine.AudioDataLoadState",
+          "UnityEngine.Rendering.ClampedFloatParameter",
+          "UnityEngine.Rendering.ClampedIntParameter"
+        ]
+      },
+      "tags": [],
+      "packageDefineHandlers": {
+        "UNITY_SPLINES": {
+          "anyRequirement" : false,
+          "requirements" : [
+            "com.unity.splines"
+          ]
+        },
+        "UNITY_XR": {
+          "anyRequirement" : true,
+          "requirements" : [
+            "com.unity.xr.arfoundation",
+            "com.unity.xr.arkit",
+            "com.unity.xr.arcore"
+          ]
+        },
+        "UNITY_AI_NAVIGATION": {
+          "anyRequirement" : false,
+          "requirements" : [
+            "com.unity.ai.navigation"
+          ]
+        }
+      }
+    },
+    "xref-ar": {
+      "packageMetadata": {
+        "name": "AR Extensions",
+        "description": "Additional AR functionality in Meadow including: Image tracking, Object tracking, and more.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/xref-client.appspot.com/o/plugins%2Fmeadow-studio%2Foptional-packages%2Fcover-images%2Fxref-ar.png?alt=media",
+        "moreInfoUrl": "",
+        "isPro": false,
+        "comingSoon": false
+      },
+      "packages": {
+        "dependencies": {
+          "com.untoldgarden.xref-ar": "0.0.8"
+        },
+        "scopedRegistries": [],
+        "scriptingDefines": []
+      },
+      "visualScripting": {
+        "assemblyOptions": [
+        "XREF.AR"
+        ],
+        "typeOptions": []
+      },
+      "tags": [],
+      "packageDefineHandlers": {
+        "UNITY_XR": {
+          "anyRequirement" : true,
+          "requirements" : [
+            "com.unity.xr.arfoundation",
+            "com.unity.xr.arkit",
+            "com.unity.xr.arcore"
+          ]
+        }
+      }
+    },
+    "xref-experience-builder-networking": {
+      "packageMetadata": {
+        "name": "Meadow Networking",
+        "description": "A package enabling networking functionality in Meadow. This package is only avilable on the Pro subscription Tier.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/xref-client.appspot.com/o/plugins%2Fmeadow-studio%2Foptional-packages%2Fcover-images%2Fxref-experience-builder-networking.png?alt=media",
+        "moreInfoUrl": "",
+        "isPro": true,
+        "comingSoon": true
+      },
+      "packages": {
+        "dependencies": {},
+        "scopedRegistries": [],
+        "scriptingDefines": []
+      },
+      "visualScripting": {
+        "assemblyOptions": [],
+        "typeOptions": []
+      },
+      "tags": [],
+      "packageDefineHandlers": {}
+    }
+  }
+}
