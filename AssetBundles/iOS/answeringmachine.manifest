@@ -1,0 +1,277 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.6f1
+CRC: 3235053565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f95e6d12b31f393a0eda7d3d423c40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0c1dc2e38c56cabc9f31615f2ba989c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df80f35dec1ebf43341eee784f4bb485
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68dd29da16b67420caa98179df829f11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.AudioClipProperties
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.AudioMixerProperties
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.MarkerList
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineAsset/EditorSettings
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineClip
+- AssemblyName: XREF.Core
+  ClassName: XREF.Experience/OcclusionSettings
+- AssemblyName: XREF.Core
+  ClassName: XREF.Experience/ReflectionSettings
+Assets:
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A09.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B25.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E08.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A02.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D07.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E39.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A13.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E09.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B30.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E06.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B20.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B24.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C11.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D18.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C30.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D25.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B38.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E23.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E13.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E07.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D35.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C02.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A33.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B23.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A22.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D01.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C36.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A08.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E18.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A18.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B08.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A23.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B06.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E31.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D02.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D06.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A37.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D19.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D38.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E17.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D39.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E38.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B36.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C08.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C28.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E22.wav
+- Assets/visualandsound/visual4/visual4.mat
+- Assets/visualandsound/visual2/visual2.png
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B14.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C33.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A06.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D28.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E15.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B17.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D09.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D15.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D30.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E35.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E04.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E30.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D27.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D11.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E36.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C18.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E33.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E10.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E05.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B37.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A11.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E37.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E12.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A21.wav
+- Assets/visualandsound/visual1/visual1.mat
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A16.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A15.wav
+- Assets/visualandsound/visual2/New Material.mat
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A17.wav
+- Assets/visualandsound/visual3/visual3.png
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B32.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E11.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A12.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A19.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B02.wav
+- Assets/visualandsound/visual3/visual3.mat
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E19.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B27.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D23.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A24.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B03.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C14.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C26.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D17.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E27.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B10.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E25.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A29.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C09.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C25.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B18.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B13.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E20.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A10.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C04.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C24.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D37.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A03.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A39.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D04.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D31.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A36.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B26.wav
+- Assets/visualandsound/visual4/Answering Machine Sketches.png
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B34.wav
+- Assets/visualandsound/visual1/visual1.png
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A04.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D22.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B35.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E32.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C37.wav
+- Assets/Temp/answeringmachine/XREFBundleMeta.txt
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B21.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A30.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E24.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D29.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E26.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E14.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E28.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A32.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A25.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C19.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B33.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C15.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B39.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C17.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D13.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E01.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B15.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C31.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D05.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B05.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C32.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A05.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C03.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B07.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D12.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B04.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C23.wav
+- Assets/visualandsound/visual1/pnguploadtesting.prefab
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D34.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D36.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B09.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A31.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D14.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D26.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C10.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C16.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B29.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A07.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B01.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A35.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B12.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B22.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E16.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E29.wav
+- Assets/visualandsound/visual1/Answering_Machine_Sketches.png
+- Assets/visualandsound/visual1/pngtesting.mat
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C01.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B31.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D16.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D20.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C07.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C05.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D32.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C12.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D24.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B19.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C20.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D10.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C35.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C38.wav
+- Assets/visualandsound/answeringmachine.prefab
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A28.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E03.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B11.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C39.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D03.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C06.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B28.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A14.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D08.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E02.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E21.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C27.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C21.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C34.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A34.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A26.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C13.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D21.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A01.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A20.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/E34.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C22.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D33.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C29.wav
+- Assets/visualandsound/audiodirectorTimeline.playable
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A38.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/B16.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/A27.wav
+Dependencies: []
