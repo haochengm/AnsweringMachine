@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.6f1
-CRC: 3773072980
+CRC: 2931608216
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a445a2d582456edca62b07dd98a2e6c8
+    Hash: 82a6d8f4c1730b8927c72a50f2765c92
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0c1dc2e38c56cabc9f31615f2ba989c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bd39bfef827be49c9cc9cdd848b2bcbc
+    Hash: 2425cb738e88089ec21680661fc5a330
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -81,16 +81,18 @@ Assets:
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/D18.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/C30.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/D25.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/TAM Music Loopable.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/B38.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E23.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E13.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E07.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/D35.wav
-- Assets/visualandsound/Sound files/answeringmachinevoicelines/C02.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/A33.wav
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/C02.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/B23.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/A22.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/D01.wav
+- Assets/Temp/answeringmachine/XREFBundleMeta.txt
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/C36.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/A08.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E18.wav
@@ -184,11 +186,10 @@ Assets:
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/B35.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E32.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/C37.wav
-- Assets/Temp/answeringmachine/XREFBundleMeta.txt
+- Assets/visualandsound/Sound files/answeringmachinevoicelines/D29.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/B21.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/A30.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E24.wav
-- Assets/visualandsound/Sound files/answeringmachinevoicelines/D29.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E26.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E14.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E28.wav
@@ -269,6 +270,7 @@ Assets:
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/E34.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/C22.wav
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/D33.wav
+- Assets/visualandsound/background music.playable
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/C29.wav
 - Assets/visualandsound/audiodirectorTimeline.playable
 - Assets/visualandsound/Sound files/answeringmachinevoicelines/A38.wav
